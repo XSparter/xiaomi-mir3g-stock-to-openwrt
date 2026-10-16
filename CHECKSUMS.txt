@@ -1,0 +1,7 @@
+miwifi_r3g_openwrt_23.05.5.bin (10752296 bytes)
+SHA256: 16AEDCA4BE80EEFED1F6C35F6597F942D0C5D42314925C8C05BDC648274953D8
+MD5:    4139576DE275B9EC5055B56FE7B4FEF7
+
+Official inputs (verified against https://downloads.openwrt.org/releases/23.05.5/targets/ramips/mt7621/sha256sums):
+65f973996fe0162a5bd4809efa1a1e79515158cabba3d22d7950eb5815ce01db  openwrt-23.05.5-ramips-mt7621-xiaomi_mi-router-3g-squashfs-kernel1.bin (2812322 bytes)
+a01fd3f096225b747a046775b36d9f8fbc0251bdfadbe8937a88cd5640808b7b  openwrt-23.05.5-ramips-mt7621-xiaomi_mi-router-3g-squashfs-rootfs0.bin (4980736 bytes)
